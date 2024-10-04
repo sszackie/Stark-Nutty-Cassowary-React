@@ -52,13 +52,13 @@
   display: flex;
   align-items: flex-start;
 }
-.footer4-text5 {
-  display: inline-block;
-}
-.footer4-text6 {
-  display: inline-block;
-}
 .footer4-text7 {
+  display: inline-block;
+}
+.footer4-text8 {
+  display: inline-block;
+}
+.footer4-text9 {
   fill: var(--dl-color-theme-neutral-dark);
   color: var(--dl-color-theme-neutral-dark);
   display: inline-block;

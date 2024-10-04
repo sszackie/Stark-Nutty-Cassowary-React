@@ -13,7 +13,7 @@ const Navbar8 = (props) => {
       <header data-thq="thq-navbar" className="navbar8-navbar-interactive">
         <div data-thq="thq-navbar-nav" className="navbar8-desktop-menu">
           <nav className="navbar8-links1">
-            <a href={props.link1Url}>
+            <Link to="/" className="navbar8-link11">
               {props.link1 ?? (
                 <Fragment>
                   <span className="navbar8-text12 thq-link thq-body-small">
@@ -22,8 +22,8 @@ const Navbar8 = (props) => {
                   </span>
                 </Fragment>
               )}
-            </a>
-            <a href={props.link2Url}>
+            </Link>
+            <Link to="/proxies" className="navbar8-link21">
               {props.link2 ?? (
                 <Fragment>
                   <span className="navbar8-text18 thq-link thq-body-small">
@@ -31,8 +31,8 @@ const Navbar8 = (props) => {
                   </span>
                 </Fragment>
               )}
-            </a>
-            <a href={props.link3Url} target="_blank" rel="noreferrer noopener">
+            </Link>
+            <Link to="/unblocked-games" className="navbar8-link31">
               {props.link3 ?? (
                 <Fragment>
                   <span className="navbar8-text26 thq-link thq-body-small">
@@ -40,7 +40,7 @@ const Navbar8 = (props) => {
                   </span>
                 </Fragment>
               )}
-            </a>
+            </Link>
             <Link to="/tools" className="navbar8-link32">
               {props.link31 ?? (
                 <Fragment>

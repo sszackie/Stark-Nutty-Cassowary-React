@@ -15,13 +15,16 @@ const Footer4 = (props) => {
           <div className="thq-divider-horizontal"></div>
           <div className="footer4-row">
             <div className="footer4-container">
-              <span className="thq-body-small">3zee.vercel.app</span>
+              <span className="thq-body-small">
+                <span>bentenunblocked.app.vercel</span>
+                <br></br>
+              </span>
             </div>
             <div className="footer4-footer-links">
               <span>
                 {props.privacyLink ?? (
                   <Fragment>
-                    <span className="footer4-text7 thq-body-small">
+                    <span className="footer4-text9 thq-body-small">
                       Privacy Policy
                     </span>
                   </Fragment>
@@ -30,7 +33,7 @@ const Footer4 = (props) => {
               <span>
                 {props.termsLink ?? (
                   <Fragment>
-                    <span className="footer4-text6 thq-body-small">
+                    <span className="footer4-text8 thq-body-small">
                       Terms and Conditions
                     </span>
                   </Fragment>
@@ -39,7 +42,7 @@ const Footer4 = (props) => {
               <span>
                 {props.cookiesLink ?? (
                   <Fragment>
-                    <span className="footer4-text5 thq-body-small">
+                    <span className="footer4-text7 thq-body-small">
                       Cookies Policy
                     </span>
                   </Fragment>

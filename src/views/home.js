@@ -108,6 +108,9 @@ const Home = (props) => {
             </span>
           </Fragment>
         }
+        link3Url="/unblocked-games"
+        link2Url="/proxies"
+        link1Url="/"
       ></Navbar8>
       <Hero17
         content1={
@@ -115,49 +118,61 @@ const Home = (props) => {
             <span className="home-text29 thq-body-large">
               <span>Unblocked tools to use at school just for you!</span>
               <br></br>
+              <span>--------</span>
+              <br></br>
+              <span>Shout out to those who made it possible</span>
+              <br></br>
+              <span>
+                - Vincent G, Tucker B, Anthony C, Marley R, and Kee R.
+              </span>
+              <br></br>
+              <span>(Made by Benjamin M)</span>
+              <br></br>
             </span>
           </Fragment>
         }
         heading1={
           <Fragment>
-            <span className="home-text32 thq-heading-1">Welcome to 3zee</span>
+            <span className="home-text40 thq-heading-1">
+              Welcome to BenTenUnblocked
+            </span>
           </Fragment>
         }
       ></Hero17>
       <Features24
         feature1Title={
           <Fragment>
-            <span className="home-text33 thq-heading-2">Timeless Proxies</span>
+            <span className="home-text41 thq-heading-2">Timeless Proxies</span>
           </Fragment>
         }
         feature2Title={
           <Fragment>
-            <span className="home-text34 thq-heading-2">Unblocked Games</span>
+            <span className="home-text42 thq-heading-2">Unblocked Games</span>
           </Fragment>
         }
         feature3Title={
           <Fragment>
-            <span className="home-text35 thq-heading-2">Tools</span>
+            <span className="home-text43 thq-heading-2">Tools</span>
           </Fragment>
         }
         feature1ImgSrc="https://images.unsplash.com/photo-1619253790960-83acb6df8cc3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyODA0OTgyOHw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080"
         feature1Description={
           <Fragment>
-            <span className="home-text36 thq-body-small">
+            <span className="home-text44 thq-body-small">
               Internet access from anywhere in the world.
             </span>
           </Fragment>
         }
         feature2Description={
           <Fragment>
-            <span className="home-text37 thq-body-small">
+            <span className="home-text45 thq-body-small">
               Unblocked web games that usually would not work.
             </span>
           </Fragment>
         }
         feature3Description={
           <Fragment>
-            <span className="home-text38 thq-body-small">
+            <span className="home-text46 thq-body-small">
               Tools including tab cloaking, bookmarks, and more!
             </span>
           </Fragment>
@@ -166,7 +181,7 @@ const Home = (props) => {
       <Features25
         feature1Title={
           <Fragment>
-            <span className="home-text39 thq-heading-2">
+            <span className="home-text47 thq-heading-2">
               <span>Un-noticable</span>
               <br></br>
             </span>
@@ -174,34 +189,34 @@ const Home = (props) => {
         }
         feature2Title={
           <Fragment>
-            <span className="home-text42 thq-heading-2">
+            <span className="home-text50 thq-heading-2">
               No coding involved
             </span>
           </Fragment>
         }
         feature3Title={
           <Fragment>
-            <span className="home-text43 thq-heading-2">24/7 Support</span>
+            <span className="home-text51 thq-heading-2">24/7 Support</span>
           </Fragment>
         }
         feature1ImgSrc="https://images.unsplash.com/photo-1545975401-1bac6136ec13?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyODA1MjQwMnw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080"
         feature1Description={
           <Fragment>
-            <span className="home-text44 thq-body-small">
+            <span className="home-text52 thq-body-small">
               Top-notch security measures to keep your actions hidden
             </span>
           </Fragment>
         }
         feature2Description={
           <Fragment>
-            <span className="home-text45 thq-body-small">
+            <span className="home-text53 thq-body-small">
               Free proxy with no coding necessary.
             </span>
           </Fragment>
         }
         feature3Description={
           <Fragment>
-            <span className="home-text46 thq-body-small">
+            <span className="home-text54 thq-body-small">
               <span>Dedicated support team available round the clock!</span>
               <br></br>
             </span>
@@ -211,19 +226,19 @@ const Home = (props) => {
       <Footer4
         termsLink={
           <Fragment>
-            <span className="home-text49 thq-body-small">
+            <span className="home-text57 thq-body-small">
               Terms and Conditions
             </span>
           </Fragment>
         }
         cookiesLink={
           <Fragment>
-            <span className="home-text50 thq-body-small">Cookies Policy</span>
+            <span className="home-text58 thq-body-small">Cookies Policy</span>
           </Fragment>
         }
         privacyLink={
           <Fragment>
-            <span className="home-text51 thq-body-small">Privacy Policy</span>
+            <span className="home-text59 thq-body-small">Privacy Policy</span>
           </Fragment>
         }
       ></Footer4>
