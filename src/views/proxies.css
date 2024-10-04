@@ -1,0 +1,89 @@
+.proxies-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.proxies-text10 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text11 {
+  display: inline-block;
+}
+.proxies-text12 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text13 {
+  display: inline-block;
+}
+.proxies-text16 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text17 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text18 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text19 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 600;
+}
+.proxies-text20 {
+  display: inline-block;
+  text-decoration: none;
+}
+.proxies-text23 {
+  display: inline-block;
+}
+.proxies-text24 {
+  display: inline-block;
+}
+.proxies-text25 {
+  display: inline-block;
+}
+.proxies-text26 {
+  display: inline-block;
+}
+.proxies-text27 {
+  display: inline-block;
+}
+.proxies-text28 {
+  display: inline-block;
+}
+.proxies-text29 {
+  display: inline-block;
+}
+.proxies-link1 {
+  text-decoration: none;
+}
+.proxies-link2 {
+  text-decoration: none;
+}
+.proxies-link3 {
+  text-decoration: none;
+}
+.proxies-link4 {
+  text-decoration: none;
+}
+.proxies-text33 {
+  display: inline-block;
+}
+.proxies-text34 {
+  display: inline-block;
+}
+.proxies-text35 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+}
